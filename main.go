@@ -35,9 +35,8 @@ const (
       INDEX = "around"
       TYPE = "post"
       DISTANCE = "200km"
-      ES_URL = "http://34.72.135.228:9200/"
+      ES_URL = "http://35.184.129.23:9200/"
 )
-
 //secret key
 var mySigningKey = []byte("secret")
 
